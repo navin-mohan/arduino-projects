@@ -16,6 +16,10 @@
 
            Author: Navin Mohan
            email: navinmohan@live.com
+           GitHub : https://github.com/nvnmo/arduino-projects
+           
+           Follow us on our blog for more
+           http://nvnmo.blogspot.in
 
 */
 #define MOISTURE_SENSOR_INPUT_A  0//analog input of the moisture sensor
